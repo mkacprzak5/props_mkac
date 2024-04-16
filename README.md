@@ -3,4 +3,4 @@ props_mkac
 
 ## todo mk:
 
-- [  ] write who rules in the hood
+- [x] write who rules in the hood
